@@ -7,8 +7,8 @@ BSCS 2-1 from Polytechnic University of the Philippines
 
 # COURSE
 Course Code: CS-FE 2
-Course Name: CS Free Elective 2
-Category: Clothes
-Product: Sleepwear
+\nCourse Name: CS Free Elective 2
+\nCategory: Clothes
+\nroduct: Sleepwear
 
 
