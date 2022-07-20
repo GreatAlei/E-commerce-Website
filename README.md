@@ -6,9 +6,12 @@ BSCS 2-1 from Polytechnic University of the Philippines
 2. Breetch Son
 
 # COURSE
-Course Code: CS-FE 2
-\nCourse Name: CS Free Elective 2
-\nCategory: Clothes
-\nroduct: Sleepwear
+1. Course Code: CS-FE 2
+2. Course Name: CS Free Elective 2
+3. Category: Clothes
+4. Product: Sleepwear
+
+# Website
+https://uniqhistores.web.app
 
 
